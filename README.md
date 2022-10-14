@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @groggfather
+- 👋 Hi, I’m @I-Am-Grogg
 - 👀 I’m interested in learning more about developing and coding
 - 🌱 I’m currently learning the basics
 - 💞️ I’m looking to collaborate with others on projects that will help me improve my skills 
